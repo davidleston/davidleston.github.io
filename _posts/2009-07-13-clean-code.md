@@ -9,9 +9,7 @@ permalink: /2009/07/clean-code/
 categories:
   - Programming
 ---
-The Clean Code Talks concentrating on writing testable code.
-
-In his talk, **Unit Testing**, [Miško Hevery](http://misko.hevery.com/about/ "Miško Hevery's about page") explains unit testing and makes a case for unit tests.
+The Clean Code Talks concentrating on writing testable code. In his talk, **Unit Testing**, [Miško Hevery](http://misko.hevery.com/about/ "Miško Hevery's about page") explains unit testing and makes a case for unit tests.
 
 <iframe src="https://www.youtube.com/embed/wEhu57pih5w" frameborder="0" allowfullscreen></iframe>
 

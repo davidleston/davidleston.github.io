@@ -1,6 +1,6 @@
 ---
 id: 31
-title: 'TV Ontario's Big Ideas'
+title: TV Ontario's Big Ideas
 date: 2008-04-05T09:32:24+00:00
 author: David
 layout: post

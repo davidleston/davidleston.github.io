@@ -1,6 +1,6 @@
 ---
 id: 40
-title: 'Network theory &#8211; detecting cascades'
+title: Network theory & detecting cascades
 date: 2008-06-29T18:12:16+00:00
 author: David
 layout: post

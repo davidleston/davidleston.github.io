@@ -1,6 +1,6 @@
 ---
 id: 22
-title: Faster sites mean more money.
+title: Faster sites mean more money
 date: 2007-08-06T23:36:31+00:00
 author: David
 layout: post

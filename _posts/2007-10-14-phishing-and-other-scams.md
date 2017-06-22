@@ -1,6 +1,6 @@
 ---
 id: 29
-title: Phishing and other scams.
+title: Phishing and other scams
 date: 2007-10-14T12:42:12+00:00
 author: David
 layout: post
@@ -10,11 +10,11 @@ categories:
   - Programming
   - Usability
 ---
-I always find these security talks entertaining.
-
 In his talk, **Searching for Evil**, Professor [Ross Anderson](http://en.wikipedia.org/wiki/Ross_Anderson "biography on Wikipedia") discusses research done in collaboration with Dr. Richard Clayton, Tyler Moore, Steven Murdoch, and Shishir Nagaraja.
   
 <iframe src="https://www.youtube.com/embed/7WlHhZUayUw" frameborder="0" allowfullscreen></iframe>
+
+I always find these security talks entertaining.
 
 Related links:
 

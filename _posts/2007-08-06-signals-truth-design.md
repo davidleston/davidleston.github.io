@@ -1,6 +1,6 @@
 ---
 id: 25
-title: 'Signals, Truth, &#038; Design'
+title: Signals, Truth, & Design
 date: 2007-08-06T23:51:49+00:00
 author: David
 layout: post
