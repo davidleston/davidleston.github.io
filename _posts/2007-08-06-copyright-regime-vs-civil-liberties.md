@@ -15,9 +15,9 @@ tags:
 ---
 In his talk, **Copyright Regime vs. Civil Liberties**, [Rick Falkvinge](http://en.wikipedia.org/wiki/Rick_Falkvinge "biography on Wikipedia"), founder of the Swedish [Pirate Party](http://en.wikipedia.org/wiki/Pirate_Party), makes an interesting argument.
 
-<http://video.google.com/videoplay?docid=-2541736281918823479> 
+<iframe src="https://www.youtube.com/embed/3mTz-jBA8SM" frameborder="0" allowfullscreen></iframe>
 
 Related links:
 
-  * [The same talk given at Stanford Law School](http://video.google.com/videoplay?docid=-2541736281918823479)
+  * [The same talk given at Stanford Law School](https://youtu.be/GKNt0ZSTSyg)
   * [QuestionCopyright.org](http://QuestionCopyright.org)

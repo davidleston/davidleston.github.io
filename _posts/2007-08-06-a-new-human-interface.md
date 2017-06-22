@@ -9,11 +9,11 @@ permalink: /2007/08/a-new-human-interface/
 categories:
   - Usability
 ---
-In his talk, **Dasher: information-efficient text entry**, [David MacKay](http://en.wikipedia.org/wiki/David_MacKay_(scientist) "biography on Wikipedia") introduces a unique human input mechanism, [Dasher](http://www.dasher.org.uk/ "official site"). I&#8217;ve used Dasher and quite like it.
+In his talk, **Dasher: information-efficient text entry**, [David MacKay](http://en.wikipedia.org/wiki/David_MacKay_(scientist) "biography on Wikipedia") introduces a unique human input mechanism, [Dasher](http://www.dasher.org.uk/ "official site"). I've used Dasher and quite like it.
 
-<http://video.google.com/videoplay?docid=5078334075080674416> 
+<iframe src="https://www.youtube.com/embed/ie9Se7FneXE" frameborder="0" allowfullscreen></iframe>
 
-There&#8217;s a [Java applet version of Dasher](http://www.dasher.org.uk/TryJavaDasherNow.html), but I encourage you to try a [native version](http://www.dasher.org.uk/Download.html "download a native version of Dasher").
+There's a [Java applet version of Dasher](http://www.dasher.org.uk/TryJavaDasherNow.html), but I encourage you to try a [native version](http://www.dasher.org.uk/Download.html "download a native version of Dasher").
 
 Contributions to Dasher have been made by David MacKay, David Ward, Alan Blackwell, Phil Cowans, Tim Hospedales, Iain Murray, Hanna Wallach, Matthew Garrett, Chris Ball, Keith Vertanen, Tadashi Kaburagi, Brian Williams, Chris Hack, Ingrid Jendrzejewski, Frederik Eaton, and Piotr Zielinski.
 

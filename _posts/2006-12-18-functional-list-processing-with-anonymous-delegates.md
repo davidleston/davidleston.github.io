@@ -11,4 +11,4 @@ categories:
 tags:
   - 'c#'
 ---
-Derrick Coetzee has an article about [functional list processing with anonymous delegates](http://blogs.msdn.com/devdev/archive/2006/06/30/652802.aspx). Keep code close to where it&#8217;s used.
+Derrick Coetzee has an article about [functional list processing with anonymous delegates](http://blogs.msdn.com/devdev/archive/2006/06/30/652802.aspx). Keep code close to where it's used.

@@ -9,9 +9,9 @@ permalink: /2007/08/signals-truth-design/
 categories:
   - Other
 ---
-In her talk, **Signals, Truth, & Design**, Judith Donath discusses intentional and unintentional signals as well as truth in signals.
+In her talk, **Signals, Truth, & Design**, [Judith Donath](https://en.wikipedia.org/wiki/Judith_Donath "biography on Wikipedia") discusses intentional and unintentional signals as well as truth in signals.
 
-<http://video.google.com/videoplay?docid=3480148850517625338> 
+<iframe src="https://www.youtube.com/embed/WOCoFa8qxjY" frameborder="0" allowfullscreen></iframe>
 
 Related links:
 

@@ -9,7 +9,9 @@ permalink: /2008/06/network-theory-detecting-cascades/
 categories:
   - Other
 ---
-In his talk, **Dynamics of real-world networks**, [Jure Leskovec](http://www.cs.cmu.edu/~jure/ "PhD candidate in the Machine Learning Department, School of Computer Science at Carnegie Mellon University, undergraduate in  Computer Science at  University of Ljubljana, Slovenia") discusses where to place sensors in a network to detect cascades such virus outbreaks or rising memes.  I particularly enjoyed Jure&#8217;s explanation of how [the cost-effective lazy forward-selection algorithm](http://www.scribd.com/doc/424343/Costeffective-Outbreak-Detection-in-Networks "Cost-effective Outbreak Detection in Networks "), which his team developed, helps to balance the cost of the sensors versus the reward of early detection.
+In his talk, **Dynamics of real-world networks**, [Jure Leskovec](http://www.cs.cmu.edu/~jure/ "PhD candidate in the Machine Learning Department, School of Computer Science at Carnegie Mellon University, undergraduate in  Computer Science at  University of Ljubljana, Slovenia") discusses where to place sensors in a network to detect cascades such virus outbreaks or rising memes. I particularly enjoyed Jure's explanation of how [the cost-effective lazy forward-selection algorithm](http://www.scribd.com/doc/424343/Costeffective-Outbreak-Detection-in-Networks "Cost-effective Outbreak Detection in Networks "), which his team developed, helps to balance the cost of the sensors versus the reward of early detection.
+
+<iframe src="https://www.youtube.com/embed/5AxNTJ3Yesk" frameborder="0" allowfullscreen></iframe>
 
 Related links:
 

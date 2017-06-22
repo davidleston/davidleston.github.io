@@ -11,4 +11,4 @@ categories:
 ---
 In his talk, **Closures for Java**, Neal Gafter provides a description of and an argument for closures in Java.
 
-<http://video.google.com/videoplay?docid=4051253555018153503>
+<iframe src="https://www.youtube.com/embed/yUmWQHzN5ZU" frameborder="0" allowfullscreen></iframe>

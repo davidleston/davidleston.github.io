@@ -1,6 +1,6 @@
 ---
 id: 26
-title: 'Automated Testing &#8211; Model-Based Testing'
+title: Automated Testing - Model-Based Testing
 date: 2007-09-22T14:05:05+00:00
 author: David
 layout: post
@@ -9,9 +9,9 @@ permalink: /2007/09/automated-testing-model-based-testing/
 categories:
   - Programming
 ---
-In his talk, **Model-Based Testing: Black or White?**, Mark Utting discusses the difference between black-box and white-box models and their affect on the ability to automate testing.
-  
-<http://video.google.com/videoplay?docid=5521890509476590796>
+In his talk, **Model-Based Testing: Black or White?**, [Mark Utting](http://www.usc.edu.au/explore/structure/faculty-of-arts-business-and-law/staff/dr-mark-utting) discusses the difference between black-box and white-box models and their affect on the ability to automate testing.
+
+<iframe src="https://www.youtube.com/embed/g4Uo2pyrWCg" frameborder="0" allowfullscreen></iframe>
 
 Related links:
 

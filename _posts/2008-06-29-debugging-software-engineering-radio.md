@@ -9,7 +9,7 @@ permalink: /2008/06/debugging-software-engineering-radio/
 categories:
   - Other
 ---
-Another podcast I listen to is [Software Engineering Radio](http://www.se-radio.net/ "Software Engineering Radio is a podcast targeted at the professional software developer").  [The Debugging episode](http://www.se-radio.net/podcast/2008-06/episode-101-andreas-zeller-debugging "Andreas Zeller on Debugging") talks about how testing does not prevent the need to debug, that debugging is a search problem, and tools for estimating where source for bugs are located.
+Another podcast I listen to is [Software Engineering Radio](http://www.se-radio.net/ "Software Engineering Radio is a podcast targeted at the professional software developer"). [The Debugging episode](http://www.se-radio.net/podcast/2008-06/episode-101-andreas-zeller-debugging "Andreas Zeller on Debugging") talks about how testing does not prevent the need to debug, that debugging is a search problem, and tools for estimating where source for bugs are located.
 
 Related links:
 

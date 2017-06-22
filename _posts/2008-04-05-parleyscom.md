@@ -11,7 +11,7 @@ categories:
 tags:
   - Podcast
 ---
-[Parleys.com](http://parleys.com "View talks from software conferences") publishes talks from software conferences.  I like seeing high-quality slides alongside video of the speaker.  [Paryleys&#8217; podcast](http://parleys.libsyn.com/rss "Parley's podcast RSS feed") is an audio only version of the talks you can watch on their site. Two of my favorite talks are:
+[Parleys.com](http://parleys.com "View talks from software conferences") publishes talks from software conferences. I like seeing high-quality slides alongside video of the speaker. [Paryleys' podcast](http://parleys.libsyn.com/rss "Parley's podcast RSS feed") is an audio only version of the talks you can watch on their site. Two of my favorite talks are:
 
   * [Flow of Change](http://www.parleys.com/display/V21Beta/Home#talk=1179649;slide=1;title=Flow%20of%20Change "by Tony Smith, European Technical Services Manager for Perforce Software") which discusses managing change in source control systems
   

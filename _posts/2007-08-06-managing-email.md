@@ -15,7 +15,7 @@ tags:
 ---
 In his talk, **Inbox Zero**, [Merlin Mann](http://en.wikipedia.org/wiki/Merlin_Mann "biography on Wikipedia") discusses one of the most important soft skills of a knowledge worker.
 
-<http://video.google.com/videoplay?docid=973149761529535925> 
+<iframe src="https://www.youtube.com/embed/z9UjeTMb3Yk" frameborder="0" allowfullscreen></iframe>
 
 Related links:
 

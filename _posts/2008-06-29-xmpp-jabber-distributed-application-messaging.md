@@ -15,11 +15,11 @@ XMPP addresses many complexities of inter-node communication in a distributed ap
 
 Here some other resources promoting instant messaging as a communication bus for distributed applications:
 
-  * [Mickaël Rémond&#8217;s blog](http://www.process-one.net/en/blogs/user/mremond/) talks about using XMPP (Jabber) inside distributed Erlang applications. [Here are slides from Mickaël Rémond&#8217;s presentation entitled Messaging with Erlang and Jabber](http://www.slideshare.net/Arbow/messaging-with-erlang-and-jabber/).
+  * [Mickaël Rémond's blog](http://www.process-one.net/en/blogs/user/mremond/) talks about using XMPP (Jabber) inside distributed Erlang applications. [Here are slides from Mickaël Rémond's presentation entitled Messaging with Erlang and Jabber](http://www.slideshare.net/Arbow/messaging-with-erlang-and-jabber/).
   * [A proposed standard for game sessions using XMPP (Jabber) by by Michal Vaner](http://www.xmpp.org/extensions/inbox/gamesessions.html)
   * [A proposed universal Go server using XMPP (Jabber) by Mike Albon](http://www.hopeless-newbie.co.uk/UGS/)
   * [Peer-to-Peer: Building Secure, Scalable, and Manageable Networks by Dana Moore and John Hebeler &#8211; book on Amazon](http://www.amazon.com/gp/product/0072192844?ie=UTF8&tag=davidleston-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0072192844)
-  * [Jabber Developer&#8217;s Handbook by William Wright and Dana Moore &#8211; book on Amazon](http://www.amazon.com/gp/product/0672325365?ie=UTF8&tag=davidleston-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0672325365 "Statistically improbable phrases found in this book: dialback key, pipe advertisement, karma value, elif type, presence subscriptions, stream header, presence packet, aim transport, success packet, roster item")
+  * [Jabber Developer's Handbook by William Wright and Dana Moore &#8211; book on Amazon](http://www.amazon.com/gp/product/0672325365?ie=UTF8&tag=davidleston-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0672325365 "Statistically improbable phrases found in this book: dialback key, pipe advertisement, karma value, elif type, presence subscriptions, stream header, presence packet, aim transport, success packet, roster item")
 
 Related links:
 

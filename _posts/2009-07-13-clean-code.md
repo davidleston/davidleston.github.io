@@ -11,20 +11,30 @@ categories:
 ---
 The Clean Code Talks concentrating on writing testable code.
 
-In his talk, **Unit Testing**, [Miško Hevery](http://misko.hevery.com/about/ "Misko Hevery's about page") explains unit testing and makes a case for unit tests.
+In his talk, **Unit Testing**, [Miško Hevery](http://misko.hevery.com/about/ "Miško Hevery's about page") explains unit testing and makes a case for unit tests.
 
-&#8230;
+<iframe src="https://www.youtube.com/embed/wEhu57pih5w" frameborder="0" allowfullscreen></iframe>
 
-In his talk, **Don&#8217;t look for things**, Miško Hevery provides a practical guide to [the Principle of Least Knowledge (aka Law of Demeter, aka Don&#8217;t Ask, Tell)](http://en.wikipedia.org/wiki/Law_of_Demeter "Wikipedia article on the Law of Demeter")
+___
 
-&#8230;
+In his talk, **Don't look for things**, Miško Hevery provides a practical guide to [the Principle of Least Knowledge (aka Law of Demeter, aka Don't Ask, Tell)](http://en.wikipedia.org/wiki/Law_of_Demeter "Wikipedia article on the Law of Demeter")
+
+<iframe src="https://www.youtube.com/embed/RlfLCWKxHJ0" frameborder="0" allowfullscreen></iframe>
+
+___
 
 In his talk, **Global State and Singletons**, Miško Hevery explains why global state leads to bad APIs and difficult to test code.
 
-&#8230;
+<iframe src="https://www.youtube.com/embed/-FRm3VPhseI" frameborder="0" allowfullscreen></iframe>
 
-In hist talk, **Inheritance, Polymorphism, & Testing**, Miško Hevery presents his premise that most if statements can be replaced with polymorphism and explains why one would want to do so.
+___
 
-&#8230;
+In his talk, **Inheritance, Polymorphism, & Testing**, Miško Hevery presents his premise that most if statements can be replaced with polymorphism and explains why one would want to do so.
 
-In his talk, **GuiceBerry,** <span>Luiz-Otavio Zorzella</span> makes a case for using dependency injection in your test code
+<iframe src="https://www.youtube.com/embed/4F72VULWFvc" frameborder="0" allowfullscreen></iframe>
+
+___
+
+In his talk, **GuiceBerry**, Luiz-Otavio Zorzella makes a case for using dependency injection in your test code
+
+<iframe src="https://www.youtube.com/embed/4E4672CS58Q" frameborder="0" allowfullscreen></iframe>

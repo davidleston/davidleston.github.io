@@ -9,9 +9,9 @@ permalink: /2007/10/design-by-contract/
 categories:
   - Programming
 ---
-I would like to see [design by contract](http://en.wikipedia.org/wiki/Design_by_contract) become mainstream. [JSR-305](http://jcp.org/en/jsr/detail?id=305), **Annotations for Software Defect Detection**, is a step in the right direction. The applicability of this standard is broader than the name suggests. Here&#8217;s a talk about the JSR by Bill Pugh:
+I would like to see [design by contract](http://en.wikipedia.org/wiki/Design_by_contract) become mainstream. [JSR-305](http://jcp.org/en/jsr/detail?id=305), **Annotations for Software Defect Detection**, is a step in the right direction. The applicability of this standard is broader than the name suggests. Here's a talk about the JSR by [Bill Pugh](https://www.cs.umd.edu/users/pugh/):
 
-<http://video.google.com/videoplay?docid=-1531727105949862857> 
+<iframe src="https://www.youtube.com/embed/8eZ8YWVl-2s" frameborder="0" allowfullscreen></iframe>
 
 I would like to see compile-time and full IDE support for design by contact.
 
