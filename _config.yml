@@ -14,20 +14,7 @@ description: A software development blog
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
   github: davidleston
-  instagram:
-  linkedin:
-  pinterest:
-  rss: rss # just type anything here for a working RSS icon
-  twitter:
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
@@ -78,6 +65,5 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - LICENSE
   - README.md
   - CNAME
