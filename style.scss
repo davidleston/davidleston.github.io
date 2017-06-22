@@ -150,13 +150,10 @@ img {
 // .masthead
 //
 
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
-
-.masthead {
+header {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
+  margin-bottom: 50px;
 
   @include mobile {
     text-align: center;
@@ -244,24 +241,17 @@ nav {
     font-style: italic;
   }
 
-  .comments {
-    margin-top: 10px;
-  }
-
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
   }
 }
 
-.wrapper-footer {
+footer {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
-}
-
-footer {
   padding: 20px 0;
   text-align: center;
 }
