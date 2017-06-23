@@ -257,7 +257,8 @@ footer {
 }
 
 iframe {
-  width: 560px;
+  width: 100%;
+  max-width: 560px;
   height: 315px;
 }
 
